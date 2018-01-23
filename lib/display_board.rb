@@ -1,6 +1,7 @@
 def display_board
-cell = " | | "
-divider = '-----------'
-puts cell
-puts divider
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
 end
